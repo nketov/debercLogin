@@ -1,0 +1,19 @@
+Getting started
+===============
+
+The Unity3D client supports all the PlayerIO tools and services and 
+works in all Unity3D enviroments: App, Web, iOS etc.
+
+YahooGamesNetwork.unitpackage can be used to import PlayerIOClient.iOS.a (for iOS), PlayerIOClient.Android.jar (for android), and 
+PlayerIOUnity3DClient.dll to your "Plugins" folder under the "Assets" folder of your Unity project.
+
+iOS:
+     The PlayerIOClient.iOS.a lib is dependent on the MessageUI.framework. The MessageUI.framework needs to be added to the 
+xcode project produced by unity. You can do this by selecting your target in xcode, selecting the "Build Phases" tab and then
+adding MessageUI.framework to "Link Binary with Libraries".
+
+Examples:
+
+* Example - Multiplayer - Mushrooms
+  Read the "Getting Started.txt" file in the 
+  "Example - Multiplayer - Mushrooms" folder

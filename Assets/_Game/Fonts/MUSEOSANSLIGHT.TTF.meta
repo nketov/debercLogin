@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 739a7984e5180704b8d9633365255938
+timeCreated: 1490862847
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Museo Sans Cyrl
+  fontNames:
+  - Museo Sans Cyrl
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 22b64e11fb2397845861ee450700b5a1, type: 3}
+  - {fileID: 12800000, guid: 08ab18a4390c6da4d88119ec998070ff, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

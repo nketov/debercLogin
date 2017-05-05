@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language LANG="russian" ID="1">
+  <!-- Main Menu -->
+  <text key="MAIN_TITLE">Моя игра</text>
+  <text key="CONTINUE">Продолжить</text>
+  <text key="START_NEW_GAME">Новая игра</text>
+  <text key="OPTIONS">Настройки</text>
+  <text key="QUIT">Выход</text>
+  <text key="ENTER_EMAIL">Введите Ваш почтовый ящик...</text>
+  <text key="ENTER_NICKNAME">Введите Ваш никнейм...</text>
+  <text key="ENTER_PASSWORD">Введите пароль...</text>
+<!--  <text key="ROOM_OPTIONS_RATE_25">25</text>
+  <text key="ROOM_OPTIONS_RATE_50">50</text>
+  <text key="ROOM_OPTIONS_RATE_100">100</text>
+  <text key="ROOM_OPTIONS_RATE_500">500</text>
+  <text key="ROOM_OPTIONS_RATE_1000">1000</text>-->
+</Language>
+

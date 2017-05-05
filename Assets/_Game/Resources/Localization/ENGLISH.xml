@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language LANG="english" ID="0">
+  <!-- Main Menu -->
+  <text key="MAIN_TITLE">My Game Title</text>
+  <text key="CONTINUE">Continue</text>
+  <text key="START_NEW_GAME">Start New Game</text>
+  <text key="OPTIONS">Options</text>
+  <text key="QUIT">Quit</text>
+  <text key="ENTER_EMAIL">Enter e-mail...</text>
+  <text key="ENTER_NICKNAME">Enter nickname...</text>
+  <text key="ENTER_PASSWORD">Enter password...</text>
+  <text key="ROOM_OPTIONS_RATE_25">25</text>
+  <text key="ROOM_OPTIONS_RATE_50">50</text>
+  <text key="ROOM_OPTIONS_RATE_100">100</text>
+  <text key="ROOM_OPTIONS_RATE_500">500</text>
+  <text key="ROOM_OPTIONS_RATE_1000">1000</text>
+
+  <text key="ROOM_OPTIONS_NUMBER_PLAYER_None">-</text>
+  <text key="ROOM_OPTIONS_NUMBER_PLAYER_TwoPlayers">2 игрока</text>
+  <text key="ROOM_OPTIONS_NUMBER_PLAYER_ThreePlayers">3 игрока</text>
+  <text key="ROOM_OPTIONS_NUMBER_PLAYER_FourthPlayers">4 игрока</text>
+  <text key="ROOM_OPTIONS_NUMBER_PLAYER_PlayACouple">на пару</text>
+
+  <text key="ROOM_OPTIONS_LIMIT_None">-</text>
+  <text key="ROOM_OPTIONS_LIMIT_Score_501">501</text>
+  <text key="ROOM_OPTIONS_LIMIT_Score_1001">1001</text>
+  <text key="ROOM_OPTIONS_LIMIT_Dealt_1">1 раздача</text>
+
+</Language>
+
