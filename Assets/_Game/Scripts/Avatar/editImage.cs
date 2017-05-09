@@ -19,7 +19,7 @@ public class editImage : MonoBehaviour
     private bool isHover = false;
 
     private int x, y, s;
-    public GameObject Main;
+  
 
     // Use this for initialization
     void Start()
@@ -96,9 +96,8 @@ public class editImage : MonoBehaviour
         result.Apply();
 
         TextureScale.Bilinear(result, 256, 256);
-
-        GameObject.Find("ImageMaker").SetActive(false);
-        Main.SetActive(true);
+        StartCoroutine(API.SaveAvatar(result, "2"));
+      
 
         //GameObject.Find("Crop").GetComponent<editImage>().original = avatarImage;
 

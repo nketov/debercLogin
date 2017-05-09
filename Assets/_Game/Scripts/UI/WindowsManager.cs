@@ -14,7 +14,8 @@ public class WindowsManager : MonoBehaviour {
 		audioMixer.SetFloat("MusicVolume", PlayerPrefs.GetFloat("MusicVolume", -15f ));
 
 		windows [0].SetActive (true);
-		for (int i = 1; i < windows.Length; i++) {
+        GameObject.Find("Avatar").GetComponent<Image>().sprite = Sprite.Create(API.avatar, new Rect(0.0f, 0.0f, 256, 256), new Vector2(0.5f, 0.5f), 100.0f);
+        for (int i = 1; i < windows.Length; i++) {
 			windows [i].SetActive (false);
 		}
 
